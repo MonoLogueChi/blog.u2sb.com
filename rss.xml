@@ -6,8 +6,8 @@
     <link>https://blog.u2sb.com/</link>
     <description>一个小白的技术博客</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 12 Feb 2026 22:37:29 GMT</pubDate>
-    <lastBuildDate>Thu, 12 Feb 2026 22:37:29 GMT</lastBuildDate>
+    <pubDate>Sun, 15 Feb 2026 12:12:17 GMT</pubDate>
+    <lastBuildDate>Sun, 15 Feb 2026 12:12:17 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <item>
@@ -309,6 +309,16 @@
 ]]></content:encoded>
     </item>
     <item>
+      <title>腾讯云使用自定义镜像</title>
+      <link>https://blog.u2sb.com/2021/08160.custom-mirror.html</link>
+      <guid>https://blog.u2sb.com/2021/08160.custom-mirror.html</guid>
+      <source url="https://blog.u2sb.com/rss.xml">腾讯云使用自定义镜像</source>
+      <description>以前写过一篇关于腾讯云使用自定义镜像的文章，但是那片文章真的是使用自定义镜像，如果是使用原版镜像的话，用那种方法有些麻烦，这里就写一种简单一点的方法。</description>
+      <pubDate>Mon, 16 Aug 2021 10:15:35 GMT</pubDate>
+      <content:encoded><![CDATA[<p>以前写过一篇关于<a href="/2019/custom-mirror.html" target="_blank">腾讯云使用自定义镜像</a>的文章，但是那片文章真的是使用自定义镜像，如果是使用原版镜像的话，用那种方法有些麻烦，这里就写一种简单一点的方法。</p>
+]]></content:encoded>
+    </item>
+    <item>
       <title>迟到的2019年终总结</title>
       <link>https://blog.u2sb.com/2020/01110.yearend-summary.html</link>
       <guid>https://blog.u2sb.com/2020/01110.yearend-summary.html</guid>
@@ -511,16 +521,6 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>腾讯云使用自定义镜像</title>
-      <link>https://blog.u2sb.com/2021/08160.custom-mirror.html</link>
-      <guid>https://blog.u2sb.com/2021/08160.custom-mirror.html</guid>
-      <source url="https://blog.u2sb.com/rss.xml">腾讯云使用自定义镜像</source>
-      <description>以前写过一篇关于腾讯云使用自定义镜像的文章，但是那片文章真的是使用自定义镜像，如果是使用原版镜像的话，用那种方法有些麻烦，这里就写一种简单一点的方法。</description>
-      <pubDate>Mon, 16 Aug 2021 10:15:35 GMT</pubDate>
-      <content:encoded><![CDATA[<p>以前写过一篇关于<a href="/2019/custom-mirror.html" target="_blank">腾讯云使用自定义镜像</a>的文章，但是那片文章真的是使用自定义镜像，如果是使用原版镜像的话，用那种方法有些麻烦，这里就写一种简单一点的方法。</p>
-]]></content:encoded>
-    </item>
-    <item>
       <title>自己组建一个多功能导播台</title>
       <link>https://blog.u2sb.com/2022/01190.%E8%87%AA%E5%B7%B1%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%E5%AF%BC%E6%92%AD%E5%8F%B0.html</link>
       <guid>https://blog.u2sb.com/2022/01190.%E8%87%AA%E5%B7%B1%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%E5%AF%BC%E6%92%AD%E5%8F%B0.html</guid>
@@ -719,6 +719,16 @@
       <description>最近一个项目需要在 Unity 中播放 RTSP 视频流，打算使用 vlc-unity，简单记录一下自行编译过程。</description>
       <pubDate>Sat, 24 Aug 2024 19:42:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>最近一个项目需要在 Unity 中播放 RTSP 视频流，打算使用 vlc-unity，简单记录一下自行编译过程。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>ASPNET自定义UDP和TCP通信</title>
+      <link>https://blog.u2sb.com/2026/02120.ASPNET%E8%87%AA%E5%AE%9A%E4%B9%89UDP%E5%92%8CTCP%E9%80%9A%E4%BF%A1.html</link>
+      <guid>https://blog.u2sb.com/2026/02120.ASPNET%E8%87%AA%E5%AE%9A%E4%B9%89UDP%E5%92%8CTCP%E9%80%9A%E4%BF%A1.html</guid>
+      <source url="https://blog.u2sb.com/rss.xml">ASPNET自定义UDP和TCP通信</source>
+      <description>最近的工作中实际遇到并解决的问题，需要使用 UDP 和 TCP 通信，最好能像 http 一样直接注册 Controller ，简单记录一下解决思路。</description>
+      <pubDate>Thu, 12 Feb 2026 16:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>最近的工作中实际遇到并解决的问题，需要使用 UDP 和 TCP 通信，最好能像 http 一样直接注册 Controller ，简单记录一下解决思路。</p>
 ]]></content:encoded>
     </item>
     <item>
