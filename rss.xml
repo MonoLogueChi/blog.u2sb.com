@@ -6,8 +6,8 @@
     <link>https://blog.u2sb.com/</link>
     <description>一个小白的技术博客</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 15 Feb 2026 12:12:17 GMT</pubDate>
-    <lastBuildDate>Sun, 15 Feb 2026 12:12:17 GMT</lastBuildDate>
+    <pubDate>Tue, 17 Feb 2026 01:17:45 GMT</pubDate>
+    <lastBuildDate>Tue, 17 Feb 2026 01:17:45 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <item>
@@ -309,16 +309,6 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>腾讯云使用自定义镜像</title>
-      <link>https://blog.u2sb.com/2021/08160.custom-mirror.html</link>
-      <guid>https://blog.u2sb.com/2021/08160.custom-mirror.html</guid>
-      <source url="https://blog.u2sb.com/rss.xml">腾讯云使用自定义镜像</source>
-      <description>以前写过一篇关于腾讯云使用自定义镜像的文章，但是那片文章真的是使用自定义镜像，如果是使用原版镜像的话，用那种方法有些麻烦，这里就写一种简单一点的方法。</description>
-      <pubDate>Mon, 16 Aug 2021 10:15:35 GMT</pubDate>
-      <content:encoded><![CDATA[<p>以前写过一篇关于<a href="/2019/custom-mirror.html" target="_blank">腾讯云使用自定义镜像</a>的文章，但是那片文章真的是使用自定义镜像，如果是使用原版镜像的话，用那种方法有些麻烦，这里就写一种简单一点的方法。</p>
-]]></content:encoded>
-    </item>
-    <item>
       <title>迟到的2019年终总结</title>
       <link>https://blog.u2sb.com/2020/01110.yearend-summary.html</link>
       <guid>https://blog.u2sb.com/2020/01110.yearend-summary.html</guid>
@@ -518,6 +508,16 @@
       <description>一次大型的学术会议直播，简单记录一下技术要点，分享给新入行的朋友们。</description>
       <pubDate>Thu, 29 Oct 2020 12:08:35 GMT</pubDate>
       <content:encoded><![CDATA[<p>一次大型的学术会议直播，简单记录一下技术要点，分享给新入行的朋友们。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>腾讯云使用自定义镜像</title>
+      <link>https://blog.u2sb.com/2021/08160.custom-mirror.html</link>
+      <guid>https://blog.u2sb.com/2021/08160.custom-mirror.html</guid>
+      <source url="https://blog.u2sb.com/rss.xml">腾讯云使用自定义镜像</source>
+      <description>以前写过一篇关于腾讯云使用自定义镜像的文章，但是那片文章真的是使用自定义镜像，如果是使用原版镜像的话，用那种方法有些麻烦，这里就写一种简单一点的方法。</description>
+      <pubDate>Mon, 16 Aug 2021 10:15:35 GMT</pubDate>
+      <content:encoded><![CDATA[<p>以前写过一篇关于<a href="/2019/custom-mirror.html" target="_blank">腾讯云使用自定义镜像</a>的文章，但是那片文章真的是使用自定义镜像，如果是使用原版镜像的话，用那种方法有些麻烦，这里就写一种简单一点的方法。</p>
 ]]></content:encoded>
     </item>
     <item>
